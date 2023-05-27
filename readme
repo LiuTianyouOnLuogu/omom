@@ -1,0 +1,41 @@
+### 简介
+
+OIer-Meet 是一套前端、后端集合的程序套装，基于[GNU通用公共许可证 v3.0](https://www.gnu.org/licenses/gpl-3.0.zh-cn.html)开源。
+
+欢迎加入我们的团队。您若有此意向，请联系 QQ：819433558 / 1347277058。
+
+使用本软件意味着你已经同意[OIer-Meet最终用户许可协议](/eula.md)。
+
+项目地址：https://gitsr.cn/oier-meet。
+
+本站为前后端分离，建议将本站下载下来，以防 Netlify 服务出现问题。
+
+OIer-Meet Web Frontend ©2022 OIer-Meet Dev 
+
+### 开发者
+
+<div class="mdui-card">
+<div class="mdui-card-header">
+    <img class="mdui-card-header-avatar" src="/static/950268.png"/>
+    <div class="mdui-card-header-title">L1uTongwei</div>
+    <div class="mdui-card-header-subtitle">你的存在，就是你活着的理由</div>
+  </div>
+<div class="mdui-card-content">
+  我是这个网站后端，调试器和服务器的主要维护人员，也是前端的开发者之一。<br>
+  我希望通过开源许可证来实现社区多元化，去中心化，来满足不同的OIer的需求。<br>
+  我相信，通过开源，会有越来越多的人加入到开发之中，并以此为基础开发出不同的项目。<br>
+  来自衡水市第二中学，来自河北省的大冤种，很羡慕下面这位开发者。
+</div>
+</div>
+<div class="mdui-card">
+<div class="mdui-card-header">
+    <img class="mdui-card-header-avatar" src="/static/341801.png"/>
+    <div class="mdui-card-header-title">MStar</div>
+    <div class="mdui-card-header-subtitle">绝艺如君天下少，闲人似我世间无</div>
+  </div>
+<div class="mdui-card-content">
+  打杂人员，前端的开发者之一，现在鸽了<br>
+  一直都想做一个比较持久的项目<br>
+  就这些了，来自山东省某个 18线 小县城
+</div>
+</div>
