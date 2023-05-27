@@ -16,7 +16,7 @@ OIer-Meet Web Frontend ©2022 OIer-Meet Dev
 
 <div class="mdui-card">
 <div class="mdui-card-header">
-    <img class="mdui-card-header-avatar" src="/static/950268.png"/>
+    <img class="mdui-card-header-avatar" src="https://cdn.luogu.com.cn/upload/usericon/950268.png"/>
     <div class="mdui-card-header-title">L1uTongwei</div>
     <div class="mdui-card-header-subtitle">你的存在，就是你活着的理由</div>
   </div>
@@ -29,7 +29,7 @@ OIer-Meet Web Frontend ©2022 OIer-Meet Dev
 </div>
 <div class="mdui-card">
 <div class="mdui-card-header">
-    <img class="mdui-card-header-avatar" src="/static/341801.png"/>
+    <img class="mdui-card-header-avatar" src="https://cdn.luogu.com.cn/upload/usericon/341801.png"/>
     <div class="mdui-card-header-title">MStar</div>
     <div class="mdui-card-header-subtitle">绝艺如君天下少，闲人似我世间无</div>
   </div>
